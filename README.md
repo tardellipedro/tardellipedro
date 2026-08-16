@@ -2,7 +2,7 @@
 
   - 👨‍💻 Cursando Ciências da Computação
   - 🧠 Aprofundando em desenvolvimento de Softwares
-  - 🐱‍👤 Interesse em CGI | Computação Gráfica
+  - 🐱‍👤 Interesse em CGI | Computação Gráfica | Analista de suporte/Sistema
   - 🎉 Ingressando no mercado de trabalho!
 
 ![cat-kitty](https://github.com/user-attachments/assets/513dc4ee-afbc-48bc-934a-e7a65acee958)
